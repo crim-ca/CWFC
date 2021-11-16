@@ -8,7 +8,7 @@ The drone mission took place on Thursday, August 16, 2018, in the regional park 
 
 ![3D Rendering](3D_rendering.jpg)
 
-Both multispectral and visible orthomosaics can be downloaded following this [link](https://crimrd-my.sharepoint.com/:f:/g/personal/byrnsda_crim_ca/EnVQM5cEAcFClNVaHwcrj-cBlynJ44kdBY96jHXSpL6A9A?e=jLiF99)
+Both multispectral and visible orthomosaics can be downloaded following this [link](https://drive.google.com/drive/folders/1aZLXnfn6IBi325XqYfrda-ChnCub-YDI)
 
 ### Multispectral
 Archive is about 60 Go and contains the following files:
